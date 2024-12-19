@@ -9,9 +9,9 @@
 
 **Currently experimenting with:**
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,mysql,sqlite,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,mysql,sqlite)](https://skillicons.dev)
 
 **Other technologies I have used are:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,cs,html,css,js,ts,angular,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,cs,html,css,js,ts,angular,bootstrap,bash,linux)](https://skillicons.dev)
 

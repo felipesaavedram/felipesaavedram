@@ -1,3 +1,4 @@
+<!-- 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
@@ -15,3 +16,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,cs,html,css,js,ts,angular,bootstrap,bash,linux)](https://skillicons.dev)
 
+ -->
